@@ -1,6 +1,6 @@
 class AlpacaConfig:
-    API_KEY = "YOUR ALPACA API KEY"
-    API_SECRET = "YOUR ALPACA API SECRET"
+    API_KEY = "AKCHWWWNF0T5SDV96RYF"
+    API_SECRET = "nGJcguRATtUCE3hpmzeUvFdZwEAeRMhq2d7x938q"
 
     """ If no endpoint is specified, the following paper trading
     endpoint will be used by default"""
